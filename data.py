@@ -224,7 +224,7 @@ FOOD = [
     (("Frischkäse", "Frischkäse"), False),
     (("Frittatensuppe",), False),
     (("Frozen Yogurt",), False),
-    (("Frucht", "Früchte"), False),
+    (("Frucht", "Früchte"), True),
     (("Fruchtbonbon", "Fruchtbonbons"), True),
     (("Fruchteis",), False),
     (("Fruchtjoghurt",), False),
