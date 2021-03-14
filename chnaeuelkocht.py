@@ -97,7 +97,7 @@ def get_values():
 
     _food = get_random_element(FOOD)
     food = _food.singular
-    if amount > 1 and _food.plural and (_unit.inflect or _food.inflect):
+    if _food.plural and ((amount > 1 and _unit.inflect) or _food.inflect):
         food = _food.plural
 
     action = random.choice(ACTION)
