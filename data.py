@@ -453,7 +453,7 @@ FOOD = [
     (("Pizza", "Pizzen"), False),
     (("Plätzchen", "Plätzchen"), False),
     (("Polenta",), False),
-    (("Pommes frite", "Pommes frites"), False),
+    (("Pommes frites"), False),
     (("Pommes", "Pommes"), False),
     (("Porridge",), False),
     (("Posaunensuppe",), False),
