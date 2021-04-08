@@ -294,7 +294,7 @@ FOOD = [
     (("Hühnerfleisch",), False),
     (("Imkerhonig",), False),
     (("Ingwer", "Ingwer"), False),
-    (("Instantnudel",), False),
+    (("Instantnudeln",), False),
     (("Instantsuppe",), False),
     (("Irish Stew",), False),
     (("Jagdwurst",), False),
