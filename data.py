@@ -22,7 +22,7 @@ UNIT = [
     (("oz",), False),
     (("Pack",), True),
     (("Prise", "Prisen"), False),
-    (("Scheiben",), False),
+    (("Scheibe", "Scheiben"), False),
     (("Stück",), True),
     (("TL",), False),
 ]
